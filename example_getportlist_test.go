@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"log"
 
-	"go.bug.st/serial"
+	serial "github.com/nwidger/go-serial"
 )
 
 func ExampleGetPortsList() {

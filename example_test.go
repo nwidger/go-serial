@@ -11,7 +11,7 @@ import (
 	"log"
 	"strings"
 
-	"go.bug.st/serial"
+	serial "github.com/nwidger/go-serial"
 )
 
 // This example prints the list of serial ports and use the first one
